@@ -2,7 +2,7 @@ export default function Home() {
 
     return (
         <>
-            <h1>Hello world</h1>
+            <h1>Esta versao de HOme está na nova branch??</h1>
         </>
     )
 }
